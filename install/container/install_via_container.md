@@ -30,6 +30,12 @@ podman run -p 8080:8080 \
   start-dev
 ```
 
+
+Ref:
+- https://access.redhat.com/documentation/en-us/red_hat_single_sign-on/7.5/html/server_installation_and_configuration_guide/hostname
+- https://keycloak.discourse.group/t/how-to-modify-endpoint-hostname-keycloak-on-docker/8097
+
 ## References
 - https://www.keycloak.org/getting-started/getting-started-podman
 - https://www.keycloak.org/server/containers
+- https://github.com/keycloak/keycloak-containers

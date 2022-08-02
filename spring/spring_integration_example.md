@@ -25,3 +25,4 @@ Integration:
 
 ## My Blog
 - [通过Keycloak API理解OAuth2与OpenID Connect](https://cookcode.blog.csdn.net/article/details/112706006)
+- [在Spring Boot应用中集成Keycloak作认证和鉴权](https://cookcode.blog.csdn.net/article/details/118821925)
